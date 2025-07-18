@@ -1,0 +1,25 @@
+{
+  "name": "downtime-crime-macro",
+  "title": "Downtime Crime Macro",
+  "description": "A macro for generating downtime crime events for the dnd5e system.",
+  "version": "1.0.0",
+  "author": "dungeonblaster",
+  "manifest": "https://example.com/module.json",
+  "download": "https://example.com/downtime-crime-macro.zip",
+  "readme": "https://example.com/README.md",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systems": [
+    {
+      "id": "dnd5e",
+      "compatibility": {
+        "minimum": "5",
+        "verified": "5"
+      }
+    }
+  ]
+}
